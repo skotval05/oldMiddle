@@ -1,0 +1,1 @@
+global.cfight = 1

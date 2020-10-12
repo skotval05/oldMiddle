@@ -1,0 +1,1 @@
+global.gamemode = 1

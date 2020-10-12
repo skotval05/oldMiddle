@@ -1,0 +1,1 @@
+room_goto(cheat_room_hyperdeath)

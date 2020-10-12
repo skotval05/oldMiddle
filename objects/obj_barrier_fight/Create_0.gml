@@ -1,0 +1,1 @@
+global.woodsfight = 0
